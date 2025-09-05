@@ -16,15 +16,17 @@ It was created as part of a Coursera Guided Project to practice Python basics li
 
 ---
 
-## How to Run
-1. Make sure you have **Python 3** installed.  
-   Check with:
-   ```bash
-   python --version
-Clone this repository or download the file:
+## 🚀 How to Run
 
+## 1. Make sure you have **Python 3** installed.  
+   Check your version with:
+   bash
+   - python --version
+
+## 2. Clone this repository (or download the ZIP):
 bash
-Copy code
-git clone https://github.com/Shabir-Ahmad-tech/To-do-list-python.git
-and run the program.
+- git clone https://github.com/Shabir-Ahmad-tech/To-do-list-python.git
+- cd To-do-list-python
 
+## 3. Run the program:
+- python to_do_app.py
