@@ -26,5 +26,5 @@ Clone this repository or download the file:
 bash
 Copy code
 git clone https://github.com/Shabir-Ahmad-tech/Simple-To-do-list-app-in-python.git
-Run the program:
+and run the program.
 
