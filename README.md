@@ -1,4 +1,4 @@
-# 📝 Simple To-Do List App (Python)
+# 📝 Simple To-Do List (Python)
 
 This is a beginner-friendly command-line To-Do List application written in Python.  
 It was created as part of a Coursera Guided Project to practice Python basics like loops, lists, conditionals, and exception handling.
@@ -25,6 +25,6 @@ Clone this repository or download the file:
 
 bash
 Copy code
-git clone https://github.com/Shabir-Ahmad-tech/Simple-To-do-list-app-in-python.git
+git clone https://github.com/Shabir-Ahmad-tech/To-do-list-python.git
 and run the program.
 
